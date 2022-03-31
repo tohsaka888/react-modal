@@ -1,0 +1,9 @@
+.test {
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  margin-left: -250px;
+  left: 50%;
+  top: 50%;
+  margin-top: 150px;
+}
